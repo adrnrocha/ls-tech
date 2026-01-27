@@ -1,0 +1,12 @@
+public
+src
+README.md
+components.json
+eslint.config.js
+index.html
+jsconfig.json
+package-lock.json
+package.json
+postcss.config.js
+tailwind.config.js
+vite.config.js
